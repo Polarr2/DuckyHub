@@ -49,6 +49,11 @@ Hubs:NewButton("Prison Life", "Made by Tanci", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Thepolardeveloper/DuckyHub/main/PrisonLife.txt"))();
 end)
 
+Hubs:NewButton("Adopt Me", "Made by Tanci", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Thepolardeveloper/DuckyHub/main/adoptme.txt"))();
+end)
+
+
 HomePage:NewLabel("Thank you for choosing DuckHub")
 HomePage:NewLabel("By the creators of BaconSploit")
 HomePage:NewLabel("DuckyUI coming soon")
