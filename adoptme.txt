@@ -22,8 +22,7 @@ Section:NewButton("Reset", "Resets walkspeed and jumpower", function()
 end)
 
 Section2:NewButton("Adopt me script", "Leaked by Tanci", function()
-    _G.SubToBloxiScripts = true
-    loadstring(game:HttpGet("https://bloxhub.xyz/script/loader"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/NocturneMoDz/ADOPT-ME-/main/SCRIPT",true))();
 end)
 
 Section2:NewButton("Owl Hub", "Executes Owl Hub", function()
