@@ -35,10 +35,6 @@ Section3:NewButton("Btools", "Opens BTOOLS", function()
     tool4.BinType = "Script"
     tool5.BinType = "Grab"
 end)
-
-Section4:NewButton("Song Chat (Credit to iiOmqFelix107)", "Litterly plays a song in chat", function()
-    
-end)
  
 
 
