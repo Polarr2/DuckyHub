@@ -46,7 +46,7 @@ Section4:NewButton("Sing The Search - NF", "Credits to Giorno Giovanna#3732", fu
 end)
 
 Section4:NewButton("Spin Fling Gui", "Leaked by tanci", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Thepolardeveloper/DuckyHub/main/Chat%20Song.txt"))();
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Thepolardeveloper/DuckyHub/main/spin.txt"))();
 end)
 
 Hubs:NewButton("Prison Life", "Made by Tanci", function()
