@@ -1,0 +1,51 @@
+
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("DuckyHub", "BloodTheme")
+local Home = Window:NewTab("Home")
+local Player = Window:NewTab("Player")
+local Section = Player:NewSection("Player Movement")
+local Section2 = Player:NewSection("Script Hubs")
+local Section3 = Player:NewSection("Client Side")
+local HomePage = Home:NewSection("Info")
+Section:NewSlider("Walkspeed", "Changes the speed of the player", 500, 0, function(s)
+    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = s
+end)
+Section:NewSlider("Jump Power", "Changes the jump power of the player", 500, 0, function(s)
+    game.Players.LocalPlayer.Character.Humanoid.JumpPower = s
+end)
+
+Section:NewButton("Reset", "Resets walkspeed and jumpower", function()
+    game.Players.LocalPlayer.Character.Humanoid.JumpPower = 50
+    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 16
+end)
+
+Section2:NewButton("Owl Hub", "Executes Owl Hub", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))();
+end)
+
+Section3:NewButton("Btools", "Opens BTOOLS", function()
+    local tool1 = Instance.new("HopperBin",game.Players.LocalPlayer.Backpack)
+    local tool2 = Instance.new("HopperBin",game.Players.LocalPlayer.Backpack)
+    local tool3 = Instance.new("HopperBin",game.Players.LocalPlayer.Backpack)
+    local tool4 = Instance.new("HopperBin",game.Players.LocalPlayer.Backpack)
+    local tool5 = Instance.new("HopperBin",game.Players.LocalPlayer.Backpack)
+    tool1.BinType = "Clone"
+    tool2.BinType = "GameTool"
+    tool3.BinType = "Hammer"
+    tool4.BinType = "Script"
+    tool5.BinType = "Grab"
+end)
+
+ 
+
+
+HomePage:NewLabel("Thank you for choosing DuckHub")
+HomePage:NewLabel("By the creators of BaconSploit")
+HomePage:NewLabel("Also, synapse DUCKING sucks!")
+
+game.StarterGui:SetCore("SendNotification",{
+    Title = "DuckyHub";
+    Text = "DuckyHub 1.0 has loaded";
+    Icon = "";
+    Duration = 1.25;
+})
