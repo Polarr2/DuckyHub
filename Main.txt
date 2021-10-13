@@ -35,7 +35,10 @@ Section3:NewButton("Btools", "Opens BTOOLS", function()
     tool4.BinType = "Script"
     tool5.BinType = "Grab"
 end)
- 
+
+Section4:NewButton("Chat Song", "Credits to Giorno Giovanna#3732", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Thepolardeveloper/DuckyHub/main/Chat%20Song.txt"))();
+end)
 
 
 HomePage:NewLabel("Thank you for choosing DuckHub")
