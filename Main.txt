@@ -37,7 +37,7 @@ Section3:NewButton("Btools", "Opens BTOOLS", function()
 end)
 
 Section4:NewButton("Song Chat (Credit to iiOmqFelix107)", "Litterly plays a song in chat", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Thepolardeveloper/DuckyHub/main/Chat%20Song"))();
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Thepolardeveloper/DuckyHub/main/Chat%20Song.txt"))();
 end)
  
 
