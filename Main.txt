@@ -3,6 +3,7 @@ local Window = Library.CreateLib("DuckyHub", "BloodTheme")
 local Home = Window:NewTab("Home")
 local Player = Window:NewTab("Player")
 local Credits = Window:NewTab("Credits")
+local GameHubs = Window:NewTab("Game Hubs")
 local Section = Player:NewSection("Player Movement")
 local Section2 = Player:NewSection("Script Hubs")
 local Section3 = Player:NewSection("Client Side")
@@ -10,6 +11,8 @@ local Section4 = Player:NewSection("Misc")
 local Section5 = Player:NewSection("Game Hubs")
 local HomePage = Home:NewSection("Info")
 local Discords = Credits:NewSection("Our discords:")
+local Hubs = GameHubs:NewSection("Hubs:")
+
 Section:NewSlider("Walkspeed", "Changes the speed of the player", 500, 0, function(s)
     game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = s
 end)
@@ -43,8 +46,8 @@ Section4:NewButton("Sing The Search - NF", "Credits to Giorno Giovanna#3732", fu
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Thepolardeveloper/DuckyHub/main/Chat%20Song.txt"))();
 end)
 
-Section5:NewButton("Prison Breaker", "Leaked by Tanci", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Thepolardeveloper/DuckyHub/main/Prison%20Life.txt"))();
+Hubs:NewButton("Prison Life", "Made by Tanci", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Thepolardeveloper/DuckyHub/main/PrisonLife.txt"))();
 end)
 
 HomePage:NewLabel("Thank you for choosing DuckHub")
