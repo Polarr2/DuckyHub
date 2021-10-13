@@ -1,0 +1,38 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("DuckyHub - Adopt Me", "BloodTheme")
+local Main = Window:NewTab("Main")
+local Info1 = Main:NewSection("Adopt Me GUI")
+local Section = Main:NewSection("Player Movement")
+local Section2 = Main:NewSection("Script Hubs")
+local Credits = Window:NewTab("Credits")
+local Discords = Credits:NewSection("Our discords:")
+Discords:NewLabel("Main developer: Tanci Penguin#7743")
+Discords:NewLabel("Contributer: Giorno Giovanna#3732")
+
+Section:NewSlider("Walkspeed", "Changes the speed of the player", 500, 0, function(s)
+    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = s
+end)
+Section:NewSlider("Jump Power", "Changes the jump power of the player", 500, 0, function(s)
+    game.Players.LocalPlayer.Character.Humanoid.JumpPower = s
+end)
+
+Section:NewButton("Reset", "Resets walkspeed and jumpower", function()
+    game.Players.LocalPlayer.Character.Humanoid.JumpPower = 50
+    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 16
+end)
+
+Section2:NewButton("Adopt me script", "Leaked by Tanci", function()
+    _G.SubToBloxiScripts = true
+    loadstring(game:HttpGet("https://bloxhub.xyz/script/loader"))()
+end)
+
+Section2:NewButton("Owl Hub", "Executes Owl Hub", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))();
+end)
+
+game.StarterGui:SetCore("SendNotification",{
+    Title = "DuckyHub";
+    Text = "Adopt Me Hub loaded";
+    Icon = "";
+    Duration = 1.25;
+})
