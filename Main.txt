@@ -42,10 +42,6 @@ Section4:NewButton("Sing The Search - NF", "Credits to Giorno Giovanna#3732", fu
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Thepolardeveloper/DuckyHub/main/Chat%20Song.txt"))();
 end)
 
-Section1:NewButton("Spinner", "Fling people", function()
-    loadstring(game:HttpGet("https://pastebin.com/raw/SVGGZiWR"))();
-end)
-
 
 
 HomePage:NewLabel("Thank you for choosing DuckHub")
