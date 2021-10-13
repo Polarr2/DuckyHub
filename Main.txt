@@ -37,7 +37,7 @@ Section3:NewButton("Btools", "Opens BTOOLS", function()
 end)
 
 Section4:NewButton("Chat Song", "Credits to Giorno Giovanna#3732", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Thepolardeveloper/DuckyHub/main/Chat%20Song.txt"))();
+
 end)
 
 
