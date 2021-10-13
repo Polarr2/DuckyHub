@@ -227,3 +227,10 @@ end)
 HomePage:NewLabel("Thank you for choosing DuckHub")
 HomePage:NewLabel("By the creators of BaconSploit")
 HomePage:NewLabel("Also, synapse DUCKING sucks!")
+
+game.StarterGui:SetCore("SendNotification",{
+    Title = "DuckyHub";
+    Text = "DuckyHub 1.0 has loaded";
+    Icon = "";
+    Duration = 1.25;
+})
