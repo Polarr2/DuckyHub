@@ -182,4 +182,3 @@ wait(2.40)
 game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Y'all know that sound, better raise your fist", 'All');
 wait(2.40)
 game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("The search begins, I'm back, so enjoy the trip, huh", 'All');
-end)
