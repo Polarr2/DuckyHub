@@ -1,0 +1,184 @@
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Hey, Nate, how's life?", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("I don't know, it's alright", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("I've been dealin' with some things like every human being", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("And really didn't sleep much last night", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("I'm sorry", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("That's fine", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer('I just think I need a little me time', 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer('I just think I need a little free time', 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer('Little break from the shows and the bus rides, yeah', 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer('Last year I had a breakdown', 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Thoughts tellin' me I'm lost gettin' too loud", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer('Had to see a therapist, then I found out', 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Somethin' funny's goin' on up in my house", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Yeah, I started thinkin' maybe I should move out", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer('You know, pack my car, take a new route', 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer('Clean up my yard, get the noose out', 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Hang up my heart, let it air out", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("I've been searchin'", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("What does that mean, Nate?", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("I've been learning", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Grabbin' my keepsakes, leavin' my burdens", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Well, I brought a few with me, I'm not perfect", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Lookin' at the view like, this concerns me", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Pickin' up the cues, right? I'm quite nervous", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Hate it when I lose sight, life gets blurry", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer('And things might hurt me', 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("It's prolly gonna be a long journey, but hey", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("It's worth it, though", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Cold world out there, kids, grab your coats", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Been a minute, I know, now I'm back to roam", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Lookin' for the antidote to crack the code", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Pretty vivid, I admit it, I'm in classic mode", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Don't need pity given to me, but I can't condone", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Talkin' down to me, I'ma have to crack your nose for crackin' jokes", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("I'm lookin' for the map to hope, you seen it?", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Been makin' a whole lot of changes", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Wrote a song about that, you should play it", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("I get scared when I walk on these stages", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("I look at the crowd and see so many faces, yeah", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("That's when I start to get anxious", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("That's when my thoughts can be dangerous", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("That's when I put on my makeup and drown in self-hatred", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Forget what I'm saying, and", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Where'd the beat go?", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Oh, ain't that somethin'?", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Drums came in, you ain't see that comin'", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Hands on my head, can't tell me nothin'", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Got a taste of the fame, had to pump my stomach", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Throw it back up like I don't want it", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Wipe my face, clean up my vomit", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("OCD, tryna push my buttons", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("I said don't touch it, now y'all done it", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("I can be critical, never typical", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Intricate with every syllable, I'm a criminal", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Intimate, but never political, pretty visual", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Even if you hate it, I'll make it feel like you're in it, though", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("You call me what you wanna, but never call me forgettable", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Leave you deep in thought, I could never swim in the kiddie pool", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Way that I been thinkin' is cinematic, it's beautiful", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Man, I don't know if I'm makin' movies or music videos", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Yeah, the sales can rise", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Doesn't mean much though when your health declines", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("See, we've all got somethin' that we trapped inside", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("That we try to suffocate, you know, hopin' it dies", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Try to hold it underwater but it always survives", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Then it comes up out of nowhere like an evil surprise", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Then it hovers over you to tell you millions of lies", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("You don't relate to that? Must not be as crazy as I am", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("The point I'm makin' is the mind is a powerful place", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("And what you feed it can affect you in a powerful way", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("It's pretty cool, right? Yeah, but it's not always safe", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Just hang with me, this'll only take a moment, okay?", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Just think about it for a second, if you look at your face", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Every day when you get up and think you'll never be great", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("You'll never be great, not because you're not, but the hate", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Will always find a way to cut you up and murder your faith", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("I am developin', take a look at the benefits", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Nothin' to meddle with, I can never be delicate", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Am I even relevant? That depends how you measure it", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Take a measurement, then bag it up and give me the evidence", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Pretty evident, dependable can never be tentative", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("I'm a gentleman, depending on if I think you're genuine", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Pretty elegant, but not afraid to tell you to get a grip", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Proper etiquette, I keep it to myself when I celebrate, ah", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("It's that time again", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Better grab your balloons and invite your friends", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Seatbelts back on, yeah, strap 'em in", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Look at me, everybody, I'm smilin' big", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("On a road right now that I can't predict", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Tell me 'Tone that down', but I can't resist", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Y'all know that sound, better raise your fist", 'All');
+wait(2.40)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("The search begins, I'm back, so enjoy the trip, huh", 'All');
+end)
