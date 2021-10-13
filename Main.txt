@@ -46,7 +46,7 @@ end)
 
 HomePage:NewLabel("Thank you for choosing DuckHub")
 HomePage:NewLabel("By the creators of BaconSploit")
-HomePage:NewLabel("Thank you for choosing DuckHub")
+HomePage:NewLabel("DuckyUI coming soon")
 
 Discords:NewLabel("Main developer: Tanci Penguin#7743")
 Discords:NewLabel("Contributer: Giorno Giovanna#3732")
