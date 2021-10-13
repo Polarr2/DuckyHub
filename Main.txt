@@ -8,7 +8,7 @@ local Section2 = Player:NewSection("Script Hubs")
 local Section3 = Player:NewSection("Client Side")
 local Section4 = Player:NewSection("Misc")
 local HomePage = Home:NewSection("Info")
-local Discords = Home:NewSection("Our discords:")
+local Discords = Discord:NewSection("Our discords:")
 Section:NewSlider("Walkspeed", "Changes the speed of the player", 500, 0, function(s)
     game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = s
 end)
