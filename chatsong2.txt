@@ -1,0 +1,27 @@
+wait(1)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Girl, I gotta know how you dance like that");
+wait(2.4)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Dance like that, you dance like that");
+wait(2.4)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("'Cause you're puttin' on a show");
+wait(2.4)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Can I take you back? Take you back, take you back");
+wait(2.4)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("I just gotta ask You to show me yours");
+wait(2.4)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("I'll show you mine");
+wait(2.4)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Don't you worry you're too fine We got one thing on our minds And we got plenty of time
+");
+wait(2.4)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Girl, I gotta go I'm finished with the show");
+wait(2.4)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("I'll show you mine");
+wait(2.4)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("If you wanna, me, I won't say no");
+wait(2.4)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("T-t-touchin' on my");
+wait(2.4)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("While I'm touchin' on your");
+wait(2.4)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("You know that we are gonna 'Cause I don't give a");
