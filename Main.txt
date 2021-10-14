@@ -57,6 +57,21 @@ Hubs:NewButton("Adopt Me", "Made by Tanci", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Thepolardeveloper/DuckyHub/main/adoptme.txt"))();
 end)
 
+Section4:NewButton("Dex", "Opens Dex Explorer", function()
+    loadstring(game:HttpGet("https://cdn.wearedevs.net/scripts/Dex Explorer V2.txt"))();
+end)
+
+Section:NewButton("r6 fly", "TAKE FLIGHT", function()
+    loadstring(game:HttpGet("https://cdn.wearedevs.net/scripts/Fly.txt"))();
+end)
+
+Section4:NewButton("Aimbot", "Universal aimbot", function()
+    loadstring(game:HttpGet("https://cdn.wearedevs.net/scripts/WRD Aimbot.txt"))();
+end)
+
+Section4:NewButton("ESP", "WRD ESP", function()
+    loadstring(game:HttpGet("https://cdn.wearedevs.net/scripts/WRD ESP.txt"))();
+end)
 
 HomePage:NewLabel("Thank you for choosing DuckHub")
 HomePage:NewLabel("By the creators of BaconSploit")
