@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("E-Legal", "Serpent")
+local Window = Library.CreateLib("E-LegΔl", "Serpent")
 local Home = Window:NewTab("Home")
 local Player = Window:NewTab("Main")
 local Section = Player:NewSection("Main")
