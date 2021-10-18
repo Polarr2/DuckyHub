@@ -1,3 +1,3 @@
 while wait(2.5) do
-    game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Hey, Nate, how's life?", 'All');
+    game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("E-Legal ontop you annoying yanks!", 'All');
 end
