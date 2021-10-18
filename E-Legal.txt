@@ -1,0 +1,21 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("E-Legal", "Serpent")
+local Home = Window:NewTab("Home")
+local Player = Window:NewTab("Main")
+local Section = Player:NewSection("Main")
+
+Section:NewSlider("Walkspeed", "Changes the speed of the player", 500, 0, function(s)
+    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = s
+end)
+Section:NewSlider("Jump Power", "Changes the jump power of the player", 500, 0, function(s)
+    game.Players.LocalPlayer.Character.Humanoid.JumpPower = s
+end)
+
+Section:NewButton("Reset", "Resets walkspeed and jumpower", function()
+    game.Players.LocalPlayer.Character.Humanoid.JumpPower = 50
+    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 16
+end)
+
+Section:NewButton("E-Spam", "Spams an E-Legal message", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Thepolardeveloper/DuckyHub/main/E-LegalSpam.txt"))();
+end)
