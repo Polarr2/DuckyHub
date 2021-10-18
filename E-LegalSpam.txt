@@ -1,0 +1,3 @@
+while wait(2.5) do
+    game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Hey, Nate, how's life?", 'All');
+end
