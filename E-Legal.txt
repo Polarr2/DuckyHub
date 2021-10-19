@@ -33,6 +33,6 @@ Section:NewButton("E-Spam", "Spams an E-Legal message", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Thepolardeveloper/DuckyHub/main/E-LegalSpam.txt"))();
 end)
 
-Section:NewColorPicker("Change theme", "Change your theme ", Color3.fromRGB(60,60,60), function(color3)
-    Library:ChangeColor(theme, color3)
+Section:NewColorPicker("Color Text", "Color Info", Color3.fromRGB(0,0,0), function(color)
+    Library:ChangeColor("Serpent", color)
 end)
