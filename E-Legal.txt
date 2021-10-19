@@ -1,5 +1,13 @@
+local colors = {
+    SchemeColor = Color3.fromRGB(0,255,255),
+    Background = Color3.fromRGB(0, 0, 0),
+    Header = Color3.fromRGB(0, 0, 0),
+    TextColor = Color3.fromRGB(255,255,255),
+    ElementColor = Color3.fromRGB(20, 20, 20)
+}
+
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("E-LegΔl", "Serpent")
+local Window = Library.CreateLib("E-LegΔl", colors)
 local Home = Window:NewTab("Home")
 local Player = Window:NewTab("Main")
 local Section = Player:NewSection("Main")
@@ -24,3 +32,9 @@ end)
 Section:NewButton("E-Spam", "Spams an E-Legal message", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Thepolardeveloper/DuckyHub/main/E-LegalSpam.txt"))();
 end)
+
+for theme, color in pairs(themes) do
+    HomeSection:NewColorPicker(theme, "Change your "..theme, color, function(color3)
+        Library:ChangeColor(theme, color3)
+    end)
+end
