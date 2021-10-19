@@ -26,5 +26,5 @@ Section:NewButton("E-Spam", "Spams an E-Legal message", function()
 end)
 
 Section:NewColorPicker("Color Text", "Color Info", Color3.fromRGB(0,0,0), function(color)
-    Window:ChangeColor("Serpent", Color)
+    Library:ChangeColor("Serpent", Color)
 end)
