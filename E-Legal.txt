@@ -3,6 +3,11 @@ local Window = Library.CreateLib("E-LegΔl", "Serpent")
 local Home = Window:NewTab("Home")
 local Player = Window:NewTab("Main")
 local Section = Player:NewSection("Main")
+local HomeSection = Home:NewSection("Developed by:")
+
+HomeSection:NewLabel("TanciPenguin")
+
+HomeSection:NewLabel("WALESRBLX")
 
 Section:NewSlider("Walkspeed", "Changes the speed of the player", 500, 0, function(s)
     game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = s
